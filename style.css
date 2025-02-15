@@ -1,8 +1,8 @@
 body {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #d1c4e9; /* Light Lavender */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #D1C4E9; /* Light Lavender */
 }
 
 hr {
-  color: #3f51b5; /* Indigo */
+    color: #3F51B5; /* Indigo */
 }
